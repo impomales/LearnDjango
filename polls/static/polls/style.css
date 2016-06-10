@@ -1,0 +1,44 @@
+/* enter css here */
+
+body {
+    background: white url("images/background.JPG") no-repeat left bottom;
+    background-size: cover;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    color: white;
+    background-color: #113311;
+    font-family: serif;
+    padding: 10px;
+    margin: 10px;
+    display: block;
+    box-shadow: 0px 2px 5px black;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.title {
+    color: white;
+    background-color: #113311;
+    font-family: serif;
+    padding: 5px;
+    text-align: center;
+    box-shadow: 0px 2px 5px black;
+}
+
+#button {
+    color: white;
+    background-color: #113311;
+    border-style: none;
+    box-shadow: 0px 2px 5px black;
+    height: 50px;
+    font-size: 25px;
+    margin-top: 10px;
+}
